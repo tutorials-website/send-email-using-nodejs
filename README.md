@@ -1,2 +1,5 @@
 # send-email-using-nodejs
-How to send email in Nodejs using Nodemailer and SMTP 
+In this Repo contains
+mail sending through Nodemailer in Node Js
+Complete Details of How to send email in Nodejs using Nodemailer and SMTP
+Check out Video version at Youtube!!
