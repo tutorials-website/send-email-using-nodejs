@@ -20,7 +20,7 @@ async function main() {
     auth: {
       user: "Your SMTP User ID", 
       pass: "Your SMTP Password", 
-    },
+    }
   });
 
   // send mail with defined transport object
